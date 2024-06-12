@@ -9,7 +9,7 @@ r_GEO = 35786
 r_MEO = 8063
 r_LEO_500 = 500
 r_LEO_800 = 800
-radius_array = [[r_GEO, "GEO", "Geostationary Orbit"], [r_MEO, "MEO", "O3b"], [r_LEO_500, "LEO", "500 km"], [r_LEO_800, "LEO", "800 km"]]
+radius_array = [[r_GEO, "GEO", "Geostationary Orbit"], [r_MEO, "MEO", "O3b Satellite Constellation, 8063 km"], [r_LEO_500, "LEO", "500 km"], [r_LEO_800, "LEO", "800 km"]]
 
 # Create figure and subplots
 fig, ax = plt.subplots(3, figsize=(20, 14))
